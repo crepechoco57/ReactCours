@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 
+// MovieCart retourne les caracteristiq d'un movie passé en parametre
 const MovieCard = ({ movie }) => {
   return (
     <div className="movie">
